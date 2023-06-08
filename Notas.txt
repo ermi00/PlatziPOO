@@ -1,2 +1,13 @@
 CURSO DE PLATZI - 08/06/2023
 PROGRAMACION ORIENTADA A OBJETOS EN JAVASCRIPT
+
+¿QUE SIGNIFICA POO?
+POO - Programacion Orientada a Objetos 
+OOP - Oriented Object Programming (en ingles)
+
+¿QUE ES UN OBJETO?
+Basicamente puede ser cualquier cosa.
+
+¿QUE ES UNA CLASE?
+A mi entendimiento se resume en una plantilla para crear mas cosas u objetos,
+ya con sus atributos y metodos para crear uno nuevo en base a la clase.
